@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Puskchan
 - 👀 I’m interested in learning new things!
-- 🌱 I’m currently learning JAVA and DSA
-- 💞️ I’m looking to collaborate on JAVA projects.
+- 🌱 I’m currently learning Python and Machine Learning
+- 💞️ I’m looking to collaborate on ML projects.
 - 📫 How to reach me @adipusk@gmail.com
 
 <!---
